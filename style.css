@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+
+body {
+  
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+  align-items: center;
+  background-color: rgb(237, 207, 150);
+  font-family: "pomodoro", cursive;
+}
+header{
+  position: absolute;
+  top: 0;
+  border: 2px transparent;
+  text-align: center;
+  background-color: transparent;
+  border-radius: 2px;
+  padding: 50px;
+  width: 100%;
+  justify-content: center;
+  width: 100%;
+}
+
+  footer{
+    background-color: transparent;
+    padding: 20px;
+    text-align: center;
+    position: absolute; 
+    bottom: 0; 
+    width: 100%; 
+}
